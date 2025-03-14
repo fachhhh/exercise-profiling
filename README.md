@@ -42,3 +42,4 @@ Contohnya:
 - Setelah profiling, saya menggantinya dengan StringBuilder, yang jauh lebih efisien karena menggunakan buffer yang dapat diubah tanpa membuat objek baru setiap kali ada perubahan.
 
 Untuk memastikan fungsionalitas aplikasi tetap berjalan dengan benar setelah optimasi, saya selalu menjalankan unit test dan integration test setelah melakukan perubahan. Ini memastikan bahwa walaupun kode dioptimasi, hasil akhirnya tetap sesuai dengan yang diharapkan.
+
